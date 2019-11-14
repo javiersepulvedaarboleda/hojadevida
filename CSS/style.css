@@ -1,0 +1,210 @@
+/** inicio pagina header**/
+
+
+header{
+    width: 110rem;
+    margin-left: auto;
+    margin-right: auto;
+}
+.foto{
+    width: 8rem;
+    height: 10rem;
+    padding-bottom: 1rem;
+}
+.ch{
+    width: 40rem;
+    display: flex;
+    justify-content: space-around;
+    padding-top: 1rem;  
+}
+.inicio{
+    display: flex;
+    background-color:#ffda2d;
+    justify-content: center;
+}
+h1{
+    font-size: 3.5rem;
+    margin: 2rem 0 -1.7rem 0;
+}
+.htres{
+    padding: 0 0 0 1.5rem;  
+    color: #e02a00; 
+}
+/**fin estilos inicio de pagina**/
+
+/**estilos del body**/
+
+body{
+    font-family: 'Crimson Text', serif;
+}
+
+/**section{
+    width: 75rem;
+    margin-left: auto;
+    margin-right: auto;
+}**/
+
+h2{
+    color: #e02a00;
+    font-size: 2rem;
+}
+
+.separadorh2{
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    margin: 1rem 0 0 0;
+}
+
+.separadorimg{
+    width: 27rem;
+    height: 0.5rem;
+    padding: 2.7rem 0 0 0;
+}
+
+/** estilos perfil profesional**/
+.perfil{
+    display: flex; 
+    justify-content: space-around;
+}
+ 
+.parrafoperfil{
+    max-width: 100%;
+    width: 60rem;
+    display: block;
+    padding: 0 4rem 0 2rem;
+    text-align: justify;
+}
+
+.infoparrafo{
+    display: block;
+    max-width: 100%;
+    margin: 0 0 0 4rem;
+    width: 25rem;
+}
+
+.redesparrafo{
+    display: block;
+    max-width: 100%;
+    margin: 0 0 0 0;  
+}
+
+.iconored{
+    width: 5rem;
+    height: 5rem;
+}
+
+/** estilos experiencia laboral**/
+
+.parrafoexp{
+    display: flex;
+    justify-content: space-between;
+}
+.experiencia{
+    display: block;
+   margin: 0 2rem 0 2rem;
+   text-align: justify;
+}
+.laboral{
+    display: flex;
+}
+
+/** estilos de habilidades tecnicas **/
+
+.habilidades{
+    display: flex;
+    margin: 0 2rem 0 2rem;
+}
+
+.p12{
+    padding: 0 2rem 0 3rem;
+    text-align: justify;
+}
+
+.p34{
+padding: 0 2rem 0 3rem;
+}
+
+progress
+{
+    width: 18rem;
+}
+
+.barraestrellas{
+    width: 20rem;
+    height: 2.5rem;
+    margin: -1rem 0 -1rem 0;
+}
+
+
+/**inicio estilos formacion academica**/
+
+.formacion{
+    display: flex; 
+}
+
+.educacion1{
+    width: 150rem;
+    text-align: justify;
+    margin: 0 0 0 2rem;
+}
+
+.educacion2{
+    margin: 0 2rem 0 6rem;
+    text-align: justify;
+}
+
+/** estilos de portafolio**/
+.portafolio{
+    display: flex;
+    margin: 0 3rem 0 2rem;
+}
+
+.portafolioparrafo{
+    text-align: justify;
+}
+.clientes{
+    display: flex;   
+}
+
+.clientes1{
+    margin: 0 0 0 1rem;
+    padding: 0 0 0 5rem;
+}
+
+.clientes2{
+    margin: 4rem 0 0 1rem;
+}
+
+.clientes3{
+    margin: 4rem 0 0 5rem;
+}
+
+/**estilos de imagenes**/
+
+
+.img1{
+    display: flex;
+    justify-content: space-around;
+    margin: 3rem 0 4rem 0;   
+}
+
+.img2{
+    width: 13rem;
+    height: 10rem;
+}
+
+
+
+
+.informacion{
+    display: flex;
+}
+
+
+
+.formacion{
+    display: flex; 
+}
+
+
